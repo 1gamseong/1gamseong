@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Swift](https://raw.githubusercontent.com/1gamseong/1gamseong/refs/heads/main/swift.svg)
+![Swift](https://raw.githubusercontent.com/1gamseong/1gamseong/refs/heads/main/swift.svg width="30")
 <img src="https://media.giphy.com/media/your_gif_url/giphy.gif" width="200"/>
 
 
