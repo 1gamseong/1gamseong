@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://simpleicons.org/?q=swift&modal=icon)
 <img src="https://media.giphy.com/media/your_gif_url/giphy.gif" width="200"/>
+file:///Users/gamseong/Downloads/swift.svg
 
 
 <!--
