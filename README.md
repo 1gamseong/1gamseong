@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Swift](https://simpleicons.org/?q=swift&modal=icon)
 
 <!--
 **1gamseong/1gamseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
