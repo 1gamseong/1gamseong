@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://simpleicons.org/?q=swift&modal=icon)
+[![Swift](https://simpleicons.org/?q=swift&modal=icon)](https://raw.githubusercontent.com/1gamseong/1gamseong/refs/heads/main/swift.svg)
 <img src="https://media.giphy.com/media/your_gif_url/giphy.gif" width="200"/>
-file:///Users/gamseong/Downloads/swift.svg
+
 
 
 <!--
