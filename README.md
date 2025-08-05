@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#F05138
 <!--
 **1gamseong/1gamseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
