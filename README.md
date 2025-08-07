@@ -3,11 +3,15 @@
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
 <img src="https://media.giphy.com/media/your_gif_url/giphy.gif" width="200"/>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 
 
 
