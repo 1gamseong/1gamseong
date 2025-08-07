@@ -25,15 +25,9 @@
 
 
 
-## 개발 도구 & 언어 경험
-
--  **Flutter / Dart** – 간단한 앱 UI 구성, 상태관리
--  **SwiftUI** – 기본 화면 레이아웃 구성 
--  **HTML / CSS** – 마크다운 프로필 편집에 활용
--  **Python** – 파일 처리, 네트워크 호출 ,분석
+## Database Experience
 -  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /> - 실시간 데이터베이스 연동, 인증 기능 실습 
 -  	<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> - 데이터베이스 기초 사용, 간단한 CRUD 실습
--  	
 
 
 <!--
