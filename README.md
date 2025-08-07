@@ -1,4 +1,13 @@
 ## Hi there 👋
+----
+| | 스텍| 
+
+| 이름 | 나이 | 직업 |
+|------|------|------|
+| 홍길동 | 24 | 개발자 |
+| 이몽룡 | 30 | 디자이너 |
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
@@ -13,12 +22,9 @@
 
 <a href="링크"><img src="위에있는뱃지코드"/>
 
+
 <a href="https://discord.gg/bxZwZ5gSu3">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:example@gmail.com?subject=문의드립니다&body=안녕하세요!">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
