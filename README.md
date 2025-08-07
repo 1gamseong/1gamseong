@@ -1,4 +1,4 @@
-## :)
+## :) 안녕하세요 
 
 
 
@@ -15,21 +15,19 @@
 
 
 
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="링크"><img src="위에있는뱃지코드"/>
+
+
+
+
+## Database Experience
+-  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /> - 실시간 데이터베이스 연동, 인증 기능
+-  	<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> - 데이터베이스 기초 사용, 간단한 CRUD 실습
+
 
 
 <a href="https://discord.gg/bxZwZ5gSu3">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-
-
-## Database Experience
--  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /> - 실시간 데이터베이스 연동, 인증 기능 실습 
--  	<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> - 데이터베이스 기초 사용, 간단한 CRUD 실습
-
-
 <!--
 **1gamseong/1gamseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
