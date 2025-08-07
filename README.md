@@ -10,7 +10,7 @@
 | Frameworks / Libraries   | SwiftUI,Getx, Provider            |
 | Tools          | <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" />  <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=black" />              |
 |Platforms  | <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />     |
-|Database          |      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    |
+|Database          |      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />    |
 
 
 
@@ -23,7 +23,11 @@
 -  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /> - 실시간 데이터베이스 연동, 인증 기능
 -  	<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> - 데이터베이스 기초 사용, 간단한 CRUD 실습
 
-
+## 참여 프로젝트
+1. 신발가게
+2. 소규모 카페주문 앱
+3. 지하철분석
+4. 따릉이 수요예측
 
 <a href="https://discord.gg/bxZwZ5gSu3">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
