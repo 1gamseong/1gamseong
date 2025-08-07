@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
 
 
 
