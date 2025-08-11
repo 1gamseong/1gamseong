@@ -26,7 +26,12 @@
 ## 참여 프로젝트
 1. 신발가게
 2. 소규모 카페주문 앱
+- PDF
+- URL : https://github.com/Team2-Organization-K-Digital/PickCaffeine
 3. 지하철분석
+part - 데이터 조사및 분석 , WebCrawling , CrawlingData FastAPI연결후 app연동 , App Newspage제작
+- PDF : 
+- URL : https://github.com/1gamseong/ParaWay
 4. 따릉이 수요예측
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/ddarng.pdf
 - 처리과정요약 : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/Note/location.ipynb
