@@ -33,6 +33,9 @@
 - URL : https://github.com/Team2-Organization-K-Digital/PickCaffeine
 3. 지하철분석
 - Languages : Python, dart
+- Algorithm : RandomForest,K-means,XGBoost
+- Data Preprocessing : Numpy , Pandas
+- CrawlinData Collection : BeautifulSoup, Selenium
 - part - 데이터 조사및 분석 , WebCrawling , CrawlingData FastAPI연결후 app연동 , App Newspage제작
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/subway.pdf
 - URL : https://github.com/1gamseong/ParaWay
@@ -41,7 +44,7 @@
 - Algorithm : RandomForest,K-means
 - Data Preprocessing : Numpy , Pandas
 - Model Saving in HDF5 format
-- part - 데이터 전처리및 분석
+- part - 데이터 전처리및 분석, H5구동
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/ddarng.pdf
 - 처리과정요약 : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/Note/location.ipynb     
 
