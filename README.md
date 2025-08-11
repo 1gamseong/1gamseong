@@ -24,11 +24,12 @@
 -  	<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> - 데이터베이스 기초 사용, 간단한 CRUD 실습
 
 ## 참여 프로젝트
+Platforms Fluter
+
 1. 신발가게
 2. 소규모 카페주문 앱
-  Development Environment 
+- Tech stack : Getx,FastAPI,MySQL, 
   part - 매장 로그인, 매장위치,주소로 위치찾기, 매장리뷰보기 , 매장업데이트
-   
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/Pick%20Caffeine.pdf
 - URL : https://github.com/Team2-Organization-K-Digital/PickCaffeine
 3. 지하철분석
@@ -36,6 +37,8 @@
 - Algorithm : RandomForest,K-means,XGBoost
 - Data Preprocessing : Numpy , Pandas
 - CrawlinData Collection : BeautifulSoup, Selenium
+- Model Saving in HDF5 format
+- Tech Stack : Provider, SQLite, FastAPI, 
 - part - 데이터 조사및 분석 , WebCrawling , CrawlingData FastAPI연결후 app연동 , App Newspage제작
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/subway.pdf
 - URL : https://github.com/1gamseong/ParaWay
