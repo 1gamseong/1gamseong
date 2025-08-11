@@ -28,6 +28,9 @@
 2. 소규모 카페주문 앱
 3. 지하철분석
 4. 따릉이 수요예측
+- PDF : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/ddarng.pdf
+- 처리과정요약 : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/Note/location.ipynb
+- 
 
 <a href="https://discord.gg/bxZwZ5gSu3">
   <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
