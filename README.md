@@ -27,27 +27,33 @@
 Platforms Fluter
 
 1. 신발가게
+- Tech stack : Getx,FastAPI,MySQL
+- part : 대리점 화면, 지점별 총매출 시스템, 반품시스템
+- URL : https://github.com/smitepaladin/shoeshop
+- PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/shoeshop.pdf
+
 2. 소규모 카페주문 앱
-- Tech stack : Getx,FastAPI,MySQL, 
-  part - 매장 로그인, 매장위치,주소로 위치찾기, 매장리뷰보기 , 매장업데이트
+- Tech stack : Getx,FastAPI,MySQL 
+- part - 매장 로그인, 매장위치,주소로 위치찾기, 매장리뷰보기 , 매장업데이트
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/Pick%20Caffeine.pdf
 - URL : https://github.com/Team2-Organization-K-Digital/PickCaffeine
 3. 지하철분석
+- part - 데이터 조사및 분석 , WebCrawling , CrawlingData FastAPI연결후 app연동 , App Newspage제작
+- Tech Stack : Provider, SQLite, FastAPI
 - Languages : Python, dart
 - Algorithm : RandomForest,K-means,XGBoost
 - Data Preprocessing : Numpy , Pandas
 - CrawlinData Collection : BeautifulSoup, Selenium
 - Model Saving in HDF5 format
-- Tech Stack : Provider, SQLite, FastAPI, 
-- part - 데이터 조사및 분석 , WebCrawling , CrawlingData FastAPI연결후 app연동 , App Newspage제작
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/pdf/subway.pdf
 - URL : https://github.com/1gamseong/ParaWay
+
 4. 따릉이 수요예측
+- part - 데이터 전처리및 분석, H5구동
 - Languages : Python
 - Algorithm : RandomForest,K-means
 - Data Preprocessing : Numpy , Pandas
 - Model Saving in HDF5 format
-- part - 데이터 전처리및 분석, H5구동
 - PDF : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/ddarng.pdf
 - 처리과정요약 : https://github.com/1gamseong/1gamseong/blob/main/ddarngstudy/Note/location.ipynb     
 
